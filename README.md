@@ -6,6 +6,8 @@ A + B = N;
 
 neither A or B may not contain any 0.
 
+N integer can be within range 2...500,000.
+
 
 
 Examples:
@@ -29,7 +31,3 @@ Result may not return 100 and 110 or 210 and 0 as it cointains a zero.
 Given N = 3, your result may return 2 and 1 or 1 and 2. 
 
 Result may not return 3 and 0 as it cointains a zero.
-
-
-
-N integer can be within range 2...500,000.
